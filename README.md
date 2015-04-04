@@ -1,5 +1,5 @@
 # Robinhood
-Robinhood Markets, Inc. API.
+Robinhood Markets, Inc.'s API.
 
 You will find everything you need in API.txt.
 
