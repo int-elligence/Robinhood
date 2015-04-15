@@ -1,1 +1,3 @@
-Need authentication? Contact me directly.
+Got this: {"detail":"Authentication credentials were not provided."} ?
+
+Need authentication. Contact me directly.
